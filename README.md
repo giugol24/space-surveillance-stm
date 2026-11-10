@@ -12,8 +12,8 @@ Ground-based optical tracking from Collepardo: SGP4 propagation, visibility plan
 - Tested on 5 RSOs: LEO, MEO, GEO, Molniya
 
 **Results:**
-<img width="700" height="525" alt="Sky_Map" src="plots/sky_map_az_el.png" />
-<img width="700" height="525" alt="PSO_Convergence" src="plots/pso_convergence.png" />
+<img width="1225" height="877" alt="sky_map" src="https://github.com/user-attachments/assets/e29f0bd2-511b-4a67-9ae4-cf1ef3227c7b" />
+<img width="787" height="618" alt="image" src="https://github.com/user-attachments/assets/f4701cde-e2b5-49b2-9ddd-20042bd93bb7" />
 
 ## Part 2: PSO TLE Refinement
 - 6 parameters optimized: i, RAAN, e, omega, M, n
